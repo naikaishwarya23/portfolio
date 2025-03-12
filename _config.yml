@@ -7,7 +7,7 @@ show_downloads: true
 theme: jekyll-theme-minimal  
 
 # Profile photo  
-avatar: /assets/profile.jpg  
+avatar: https://github.com/naikaishwarya23/portfolio/blob/main/1000139026.png
 
 # Navigation links  
 navigation:  
@@ -31,21 +31,20 @@ personal_interests:
 
 # Featured Projects  
 projects:  
-  - title: SkillWiser  
+  - title: Skill Wiser  
     description: Extracts and clusters job skills from job descriptions using NLP and ML techniques.  
-    url: /projects/skillwiser  
-  - title: Job Role Recommender  
-    description: Predicts similar job roles based on skills using clustering algorithms.  
-    url: /projects/job-role-recommender  
-  - title: CNN Image Classifier  
-    description: Trained a convolutional neural network to classify images from the Imagenette dataset.  
-    url: /projects/cnn-classifier  
+    url: https://github.com/naikaishwarya23/SkillWiser
+  - title: Spending Habits Unveiled 
+    description: Analysis of individuals' spending habits based on various demographic and lifestyle factors. 
+    url: https://github.com/naikaishwarya23/SpendingHabitsUnveiled
+  - title: Human Activity Recognition   
+    description: Predicts human activity recognition using smartphone sensor data. 
+    url: https://github.com/naikaishwarya23/HumanActivityRecognition 
 
 # Social links  
 social:  
-  github: aishwaryanaik  
-  linkedin: aishwaryanaik  
-  twitter: aishwarya_naik  
+  github: https://github.com/naikaishwarya23  
+  linkedin: https://www.linkedin.com/in/naikaishwarya   
 
 # Build settings  
 plugins:  
