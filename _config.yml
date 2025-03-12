@@ -1,3 +1,53 @@
-title: Aishwarya Naik
-show_downloads: true
-theme: jekyll-theme-minimal
+title: Aishwarya Naik  
+description: >  
+  Data Scientist | Machine Learning Enthusiast | AI Researcher  
+  Passionate about leveraging data to drive insights and innovation.  
+
+show_downloads: true  
+theme: jekyll-theme-minimal  
+
+# Profile photo  
+avatar: /assets/profile.jpg  
+
+# Navigation links  
+navigation:  
+  - title: About Me  
+    url: /about  
+  - title: Projects  
+    url: /projects  
+  - title: Blog  
+    url: /blog  
+  - title: Contact  
+    url: /contact  
+
+# Personal interests  
+personal_interests:  
+  - Machine Learning  
+  - Deep Learning  
+  - Natural Language Processing  
+  - Data Visualization  
+  - AI Ethics  
+  - Open-Source Contributions  
+
+# Featured Projects  
+projects:  
+  - title: SkillWiser  
+    description: Extracts and clusters job skills from job descriptions using NLP and ML techniques.  
+    url: /projects/skillwiser  
+  - title: Job Role Recommender  
+    description: Predicts similar job roles based on skills using clustering algorithms.  
+    url: /projects/job-role-recommender  
+  - title: CNN Image Classifier  
+    description: Trained a convolutional neural network to classify images from the Imagenette dataset.  
+    url: /projects/cnn-classifier  
+
+# Social links  
+social:  
+  github: aishwaryanaik  
+  linkedin: aishwaryanaik  
+  twitter: aishwarya_naik  
+
+# Build settings  
+plugins:  
+  - jekyll-seo-tag  
+  - jekyll-sitemap  
